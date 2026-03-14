@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3800&pause=900&color=00FF41&center=true&vCenter=true&width=540&lines=ghost0x02;Offensive+Security+Researcher;Database+Exploitation+Specialist;Python+Tooling+Developer;Stay+Hidden+·+Stay+Persistent" alt="ghost0x02 typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3800&pause=900&color=00FF41&center=true&vCenter=true&width=540&lines=ghost0x02;Offensive+Security+Researcher;Database+Exploitation" alt="ghost0x02 typing" />
 </div>
 
 <br>
