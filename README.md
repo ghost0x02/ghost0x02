@@ -20,11 +20,6 @@
 
 <div align="center">
   
-       ┌────────────────────────────────────────────────────────────┐
-       │                   SHADOW ACCESS – ACTIVE                   │
-       └────────────────────────────────────────────────────────────┘
-
-     ─ ENVIRONMENT & TOOLSET ─
 
   <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,docker,postgres,mongodb,redis,sqlite&#x26;perline=8" alt="tools">
   
