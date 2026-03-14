@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3800&pause=900&color=00FF41&center=true&vCenter=true&width=540&lines=ghost0x02;Offensive+Security+Researcher;Database+Exploitation+Specialist;Python+Tooling+Developer;Stay+Hidden+·+Stay+Persistent" alt="ghost0x02 typing" />
-</div>
 
-<br>
 
 <div align="center">
   <img 
@@ -13,19 +9,7 @@
   />
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=80&section=header&text=&fontSize=0" alt="divider" />
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://i.imgur.com/1vJ3x.gif"
-width="200"
-alt="Spinning Kali Dragon"
-style="border-radius: 50%; box-shadow: 0 0 35px rgba(0, 255, 65, 0.6);"
-/>
+ 
 
 <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,docker,postgres,mongodb,redis,sqlite&#x26;perline=8" alt="tools">
 
