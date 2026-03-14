@@ -7,7 +7,7 @@
 <div align="center">
   <img 
     src="https://i.hizliresim.com/d7aqple.jpg" 
-    width="180" 
+    width="200" 
     alt="ghost0x02" 
     style="border-radius:50%; border: 2px solid #00FF41; box-shadow: 0 0 40px rgba(0,255,65,0.4); filter: drop-shadow(0 0 15px #00FF41);"
   />
