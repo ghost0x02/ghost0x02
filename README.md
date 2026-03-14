@@ -5,23 +5,17 @@
 <br>
 
 <div align="center">
-  <img 
-    src="https://i.hizliresim.com/d7aqple.jpg" 
-    width="180" 
-    alt="ghost0x02" 
-    style="border-radius:50%; border: 2px solid #00FF41; box-shadow: 0 0 40px rgba(0,255,65,0.4); filter: drop-shadow(0 0 15px #00FF41);"
-  />
+  <img
+src="https://sagar040.github.io/archives/data/proot-distro-nethunter/images/gui.gif"
+width="220"
+alt="Spinning Kali Linux Dragon"
+style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5);"
+/>
   <br><br>
   
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=80&section=header&text=&fontSize=0" alt="divider" />
 </div>
 
-<img
-src="https://sagar040.github.io/archives/data/proot-distro-nethunter/images/gui.gif"
-width="220"
-alt="Spinning Kali Dragon"
-style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5);"
-/>
 
 
 <br>
