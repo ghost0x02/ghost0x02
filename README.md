@@ -1,27 +1,4 @@
-<div align="center">
-  <a href="https://hizliresim.com/d7aqple"><img src="https://i.hizliresim.com/d7aqple.jpg" alt="ff"></a>font=VT323&size=42&duration=3800&pause=900&color=00FF41&center=true&vCenter=true&width=540&lines=ghost0x02;Offensive+Security+Researcher;Database+Exploitation+Specialist;Python+Tooling+Developer;Stay+Hidden+·+Stay+Persistent" alt="ghost0x02 typing" />
-</div>
 
-<br>
-
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" 
-    width="180" 
-    alt="ghost0x02" 
-    style="border-radius:50%; border: 2px solid #00FF41; box-shadow: 0 0 40px rgba(0,255,65,0.4); filter: drop-shadow(0 0 15px #00FF41);"
-  />
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=80&section=header&text=&fontSize=0" alt="divider" />
-</div>
-
-<br>
-
-<div align="center">
-  
-
-  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,docker,postgres,mongodb,redis,sqlite&#x26;perline=8" alt="tools">
   
 
 
