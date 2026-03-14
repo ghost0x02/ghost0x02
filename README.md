@@ -52,7 +52,7 @@ textCurrent Shadows:
   <img src="https://capsule-render.vercel.app/api?type=rect&#x26;color=gradient&#x26;height=3&#x26;section=footer&#x26;%20text=&#x26;fontSize=0" alt="thin line">
   
 
-  ghost0x02  ·  visibility minimized  ·  persistence maximized  ·  ethics enforced
+
 
 
 
