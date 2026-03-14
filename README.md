@@ -1,25 +1,71 @@
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> 
+<!-- 
+   ghost0x02 
+   0xghost | Ethical Shadow | Database Phantom
+   2026 Edition – Stay Hidden
+-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=38&duration=4000&pause=1200&color=00FF41&center=true&vCenter=true&width=520&lines=ghost0x02;Ethical+Shadow;Database+Phantom;Python+Red+Team;0xDEADBEEF" alt="ghost typing" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" 
+       width="160" 
+       alt="ghost avatar" 
+       style="border-radius:50%; border: 2px solid #00FF41; box-shadow: 0 0 35px #00FF4180, inset 0 0 15px #00FF4180;" />
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ff41&height=100&section=header&text=&fontSize=0" alt="venom divider" />
+</div>
+
+<br>
+
+<div align="center">
+
+  ```text
+  ┌────────────────────────────────────────────────────┐
+  │                SHADOW PROTOCOL ACTIVE              │
+  └────────────────────────────────────────────────────┘
+Currently lurking in: PostgreSQL • MongoDB • Redis shadows
 
 
 
-<h1 align="center"></h1>
-<h3 align="center">:-))</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost0x02&label=Profile%20views&color=0e75b6&style=flat" alt="ghost0x02" /> </p>
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=00FF41" alt="X"/> 
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41" alt="GitHub"/> 
+<img src="https://img.shields.io/badge/Proton-8B89CC?style=flat-square&logo=protonmail&logoColor=00FF41" alt="Proton"/> 
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logoColor=00FF41" alt="THM"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghost0x02" alt="ghost0x02" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xsecit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xsecit" height="30" width="40" /></a>
-<a href="https://discord.gg/enesxsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="enesxsec" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+─ TOOLKIT ─
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost0x02&show_icons=true&locale=en&layout=compact" alt="ghost0x02" /></p>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,postgres,mongodb,redis,sqlite&#x26;perline=7" alt="toolkit">
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost0x02&show_icons=true&locale=en" alt="ghost0x02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghost0x02&" alt="ghost0x02" /></p>
+  Burp • Wireshark • Nmap • Metasploit • sqlmap • custom python scripts
+<img src="https://github-readme-stats.vercel.app/api?username=ghost0x02&#x26;show_icons=true&#x26;theme=transparent&#x26;hide_border=true&#x26;hide_title=true&#x26;rank_icon=github&#x26;include_all_commits=true&#x26;icon_color=00FF41&#x26;text_color=cccccc&#x26;bg_color=00000000" width="420" alt="stats">
+      
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost0x02&#x26;theme=transparent&#x26;hide_border=true&#x26;background=00000000&#x26;stroke=00000000&#x26;ring=00FF41&#x26;fire=00FF41&#x26;currStreakNum=cccccc&#x26;sideNums=cccccc&#x26;dates=cccccc" width="420" alt="streak">
+      
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0x02&#x26;layout=compact&#x26;theme=transparent&#x26;hide_border=true&#x26;hide_title=true&#x26;langs_count=6&#x26;card_width=680&#x26;bg_color=00000000&#x26;title_color=00FF41&#x26;text_color=cccccc" alt="top langs">
+
+
+
+
+textCurrently dropping shadows in:
+• Database enumeration & privilege escalation PoCs
+• Python-based C2 & exfiltration tools
+• Automated vuln chaining scripts
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&#x26;theme=radical" alt="quote" width="520">
+
+
+
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&#x26;color=gradient&#x26;height=2&#x26;section=footer&#x26;%20text=&#x26;fontSize=0" alt="divider">
+  
+
+  ghost0x02 — visibility = 0 | persistence = max | ethics = on
