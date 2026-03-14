@@ -26,7 +26,7 @@
   
 
 
-  Burp Suite · Nmap · Metasploit · sqlmap · Wireshark · Custom Python tooling
+   Nmap · Metasploit · sqlmap · Custom Python tooling
 
 
 
