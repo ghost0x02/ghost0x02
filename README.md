@@ -16,6 +16,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=80&section=header&text=&fontSize=0" alt="divider" />
 </div>
 
+<img
+src="https://sagar040.github.io/archives/data/proot-distro-nethunter/images/gui.gif"
+width="220"
+alt="Spinning Kali Dragon"
+style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5);"
+/>
+
+
 <br>
 
 <div align="center">
