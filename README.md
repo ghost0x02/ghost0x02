@@ -4,17 +4,12 @@
 
 <br>
 
-<div align="center">
-  <img
-src="https://sagar040.github.io/archives/data/proot-distro-nethunter/images/gui.gif"
+<img
+src="https://media.tenor.com/4640926145978129355.gif"
 width="220"
 alt="Spinning Kali Linux Dragon"
 style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5);"
 />
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=80&section=header&text=&fontSize=0" alt="divider" />
-</div>
 
 
 
