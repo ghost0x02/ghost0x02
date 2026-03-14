@@ -17,7 +17,7 @@
 
 
 
-
+<div align="center"> <img src="https://i.hizliresim.com/d7aqple.jpg" width="180" alt="ghost0x02" /> <br><br> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=ghost0x02;CYBER+SECURITY;DATABASE+CONTROLLER;SQL+AUTOMATION"/> </div> <br> <div align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,docker,mysql,postgres,mongodb,redis&perline=5"/> </div> <br> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghost0x02&show_icons=true&theme=transparent&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=9f9f9f"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0x02&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=9f9f9f&hide=cpp,c"/> </div> <br> <div align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:001a0f&height=3&section=footer&text=&fontSize=0"/>
 
 
 
