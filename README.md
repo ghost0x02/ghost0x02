@@ -38,7 +38,7 @@ style="border-radius: 50%; box-shadow: 0 0 35px rgba(0, 255, 65, 0.6);"
 
 
 
-
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=ghost0x02;Cybersecurity+Researcher;Offensive+Security+Specialist;Web+Security+%26+Database+Analysis;Linux+%7C+Python+Automation" /> </div> --- <div align="center"> <img src="https://i.imgur.com/1vJ3x.gif" width="180"/> </div> --- # 🐉 About Me ```bash root@kali:~# whoami Cybersecurity researcher focused on: - Web security analysis - Database architecture research - Automation tools - Linux security environments Operating mainly inside Kali Linux ecosystem.
 
 
 
