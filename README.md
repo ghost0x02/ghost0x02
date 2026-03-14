@@ -19,8 +19,7 @@
 <br>
 
 <div align="center">
-   
-   ```
+  
        ┌────────────────────────────────────────────────────────────┐
        │                   SHADOW ACCESS – ACTIVE                   │
        └────────────────────────────────────────────────────────────┘
@@ -52,8 +51,6 @@ textCurrent Shadows:
   
 
   ghost0x02  ·  visibility minimized  ·  persistence maximized  ·  ethics enforced
-
-```
 
 
 
