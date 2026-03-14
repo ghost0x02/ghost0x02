@@ -32,9 +32,9 @@
 
 
   
-        <img src="https://github-readme-stats.vercel.app/api?username=ghost0x02&#x26;show_icons=true&#x26;theme=transparent&#x26;hide_border=true&#x26;hide_title=true&#x26;include_all_commits=true&#x26;rank_icon=github&#x26;icon_color=00FF41&#x26;text_color=a0a0a0&#x26;bg_color=00000000" width="460" alt="stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=ghost0x02&#x26;show_icons=true&#x26;theme=transparent&#x26;hide_border=true&#x26;hide_title=true&#x26;include_all_commits=true&#x26;rank_icon=github&#x26;icon_color=00FF41&#x26;text_color=a0a0a0&#x26;bg_color=00000000" width="460" alt="stats">
       
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost0x02&#x26;theme=transparent&#x26;hide_border=true&#x26;background=00000000&#x26;stroke=00000000&#x26;ring=00FF41&#x26;fire=00FF41&#x26;currStreakNum=a0a0a0&#x26;sideNums=a0a0a0&#x26;dates=a0a0a0" width="460" alt="streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost0x02&#x26;theme=transparent&#x26;hide_border=true&#x26;background=00000000&#x26;stroke=00000000&#x26;ring=00FF41&#x26;fire=00FF41&#x26;currStreakNum=a0a0a0&#x26;sideNums=a0a0a0&#x26;dates=a0a0a0" width="460" alt="streak">
       
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0x02&#x26;layout=compact&#x26;theme=transparent&#x26;hide_border=true&#x26;hide_title=true&#x26;langs_count=7&#x26;card_width=720&#x26;bg_color=00000000&#x26;title_color=00FF41&#x26;text_color=a0a0a0" alt="top languages">
 
